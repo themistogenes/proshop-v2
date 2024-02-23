@@ -43,6 +43,12 @@ table th {
   margin-top: 10px;
 }
 
+.carousel {
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .carousel-caption {
   position: absolute;
   width: 100%;
